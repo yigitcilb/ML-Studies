@@ -2,7 +2,7 @@ import numpy as np
 import time
 
 GAMMA = 0.99
-ITERATION = 1000
+ITERATION = 5
 
 env = np.array([
     [-0.2, -0.2, -0.2, 1],

@@ -2,7 +2,7 @@
 
 I have been studying Andrew Ng's CS229 course. Inspired by the course, I have implemented and explored several fundamental machine learning algorithms.
 
-## Algorithms I Have Studied
+## Algorithms I Have Implemented
 
 - **Gradient Descent**  
 - **K-Means Clustering**  

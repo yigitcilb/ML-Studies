@@ -28,5 +28,5 @@ $$
 Majority voting:
 
 $$
-H(x) = \operatorname{mode}\{ h_1(x), h_2(x), \dots, h_B(x) \}
+H(x) = mode{ h_1(x), h_2(x), ..., h_B(x) }
 $$
